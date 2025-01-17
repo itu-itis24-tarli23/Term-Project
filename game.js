@@ -18,7 +18,7 @@ function initializeGame() {
     updateScore();
     updateLives();
     document.getElementById('prediction').value = "";
-    document.getElementById('reset-game').style.display = "none"; // Reset button is hidden initially
+    document.getElementById('reset-game').style.display = "none"; 
     createCards();
 }
 
@@ -32,13 +32,13 @@ function createCards() {
         card.setAttribute('data-index', index);
 
         const front = document.createElement('img');
-        front.src = "images/question-mark.svg"; 
+        front.src = "question-mark.svg"; 
         front.alt = "Question Mark";
         front.classList.add('front');
         card.appendChild(front);
 
         const back = document.createElement('img');
-        back.src = `images/${letter}.svg`; 
+        back.src = `${letter}.svg`; 
         back.alt = letter;
         back.classList.add('back', 'hidden'); 
         card.appendChild(back);
@@ -54,7 +54,7 @@ function makePrediction() {
     if (!userInput || userInput.length === 0) return;
 
     if (!firstPredictionMade) {
-        document.getElementById('reset-game').style.display = "block"; // Show reset button after the first prediction
+        document.getElementById('reset-game').style.display = "block"; 
         firstPredictionMade = true;
     }
 

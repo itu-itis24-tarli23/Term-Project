@@ -5,7 +5,7 @@ body {
     background-color: #f0f8ff;
     color: #333;
     display: flex;
-    flex-direction: column;  /* Stacks elements vertically */
+    flex-direction: column;  
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -16,11 +16,11 @@ header {
     background: #0073e6;
     color: #fff;
     width: 100%;
-    padding: 10px 0; /* Reduced padding for smaller header */
+    padding: 10px 0; 
     text-align: center;
-    font-size: 1.8em; /* Reduced font size */
+    font-size: 1.8em; 
     font-weight: bold;
-    margin-bottom: 20px; /* Adjusted space below header */
+    margin-bottom: 20px; 
 }
 
 section {
@@ -31,7 +31,7 @@ section {
     margin: 20px auto;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    text-align: center; /* Center text within section */
+    text-align: center;
 }
 
 .personal-info {
@@ -56,7 +56,7 @@ section {
 
 h1 {
     margin: 0;
-    font-size: 1.8em; /* Balanced font size for name */
+    font-size: 1.8em; 
 }
 
 h2 {
@@ -75,7 +75,7 @@ p {
 }
 
 .bio, .academic-interests {
-    margin-bottom: 30px; /* Space between sections */
+    margin-bottom: 30px;
     text-align: left;
     padding-left: 20px;
 }
