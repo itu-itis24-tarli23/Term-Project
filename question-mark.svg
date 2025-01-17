@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="question-mark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#f5f7fb"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3266287"
+     inkscape:cx="79.901784"
+     inkscape:cy="40.327787"
+     inkscape:window-width="2160"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff00ff;stroke-width:0.264583;-inkscape-font-specification:'Sans, Normal';font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="9.6229973"
+       y="9.3238373"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan3" /></text>
+    <path
+       d="m 16.416888,10.699253 q 0,1.080373 -0.385847,1.929238 -0.385848,0.837841 -1.014228,1.48827 -0.617357,0.62838 -1.422125,1.179591 -0.804768,0.551211 -1.708754,1.06935 v 2.480449 H 9.9125991 v -3.362387 q 0.7165739,-0.407896 1.5433909,-0.892962 0.83784,-0.485065 1.367003,-0.981155 0.639405,-0.57326 0.99218,-1.179592 0.352775,-0.617356 0.352775,-1.565439 0,-1.2457365 -0.848865,-1.8520685 -0.837841,-0.6173563 -2.171771,-0.6173563 -1.190616,0 -2.2599652,0.3748234 Q 7.8290217,9.1448381 7.2116655,9.5306858 H 7.1014233 V 7.2817451 Q 7.8731186,6.9840912 9.0527101,6.7525826 10.243326,6.5100498 11.301651,6.5100498 q 2.370207,0 3.73721,1.157543 1.378027,1.1465187 1.378027,3.0316602 z M 12.062322,23.255838 H 9.8133812 v -2.32611 h 2.2489408 z"
+       id="text2"
+       style="font-size:22.5776px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:#cc00ff;stroke-width:0.235183"
+       transform="scale(1.1250099,0.88888106)"
+       aria-label="?" />
+  </g>
+</svg>
